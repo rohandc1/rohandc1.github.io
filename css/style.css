@@ -140,8 +140,7 @@ section h3::before{
 #about img {
     display: block;
     margin:0px auto;
-    width: 500px;
-    height: 400px;
+    width: 40%;
     border-radius: 10px;
     box-shadow: 0 3px 5px #ddd;
     margin-bottom: 10;
@@ -158,8 +157,7 @@ section h3::before{
 #skills img {
     display: block;
     margin:0px auto;
-    width: 500px;
-    height: 400px;
+    width: 40%;
     border-radius: 10px;
     box-shadow: 0 3px 5px #ddd;
     margin-bottom: 10;
@@ -173,8 +171,7 @@ section h3::before{
 #portfolio img {
     display: block;
     margin:0px auto;
-    width: 500px;
-    height: 400px;
+    width: 40%;
     border-radius: 10px;
     box-shadow: 0 3px 5px #ddd;
     margin-bottom: 10;

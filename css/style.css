@@ -15,7 +15,6 @@ header h1 a:hover {
 }
 header h1 {
     display: inline-block;
-    float: left;
     padding:15px 24px;
     text-transform: uppercase;
 }
